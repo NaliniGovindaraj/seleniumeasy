@@ -1,0 +1,133 @@
+1631964939172	geckodriver	INFO	Listening on 127.0.0.1:60568
+1631964942203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofileMUNYWk"
+1631964943712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofileMUNYWk\\search.json.mozlz4", (void 0)))
+1631964950208	Marionette	INFO	Listening on port 59686
+1631964950423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631965026645	Marionette	INFO	Stopped listening on port 59686
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:499:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3747:24\ndestroy@resource://devtools/client/framework/toolbox.js:3685:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\ndestroy@resource://devtools/client/framework/devtools-browser.js:747:24\nobserve@resource://devtools/client/framework/devtools-browser.js:195:26\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2768:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631965127655	geckodriver	INFO	Listening on 127.0.0.1:55985
+1631965130690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofiles1Pn3A"
+1631965132110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofiles1Pn3A\\search.json.mozlz4", (void 0)))
+1631965136864	Marionette	INFO	Listening on port 55958
+1631965137450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s7.addthis.com/static/custom-messages.5799ddf75a30812a3d49.js, line 112: TypeError: this.props is undefined
+1631965250402	Marionette	INFO	Stopped listening on port 55958
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631965541754	geckodriver	INFO	Listening on 127.0.0.1:51779
+1631965544957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofilekBfAYr"
+1631965547205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofilekBfAYr\\search.json.mozlz4", (void 0)))
+1631965552885	Marionette	INFO	Listening on port 54858
+1631965553108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631965634513	Marionette	INFO	Stopped listening on port 54858
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631965667010	geckodriver	INFO	Listening on 127.0.0.1:60739
+1631965698427	geckodriver	INFO	Listening on 127.0.0.1:52755
+1631965701500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofileJZC08z"
+1631965702642	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofileJZC08z\\search.json.mozlz4", (void 0)))
+1631965707439	Marionette	INFO	Listening on port 52971
+1631965707746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631965787350	Marionette	INFO	Stopped listening on port 52971
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:499:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3747:24\ndestroy@resource://devtools/client/framework/toolbox.js:3685:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\ndestroy@resource://devtools/client/framework/devtools-browser.js:747:24\nobserve@resource://devtools/client/framework/devtools-browser.js:195:26\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2768:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631966057831	geckodriver	INFO	Listening on 127.0.0.1:51236
+1631966060883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofileM58GfE"
+1631966062237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofileM58GfE\\search.json.mozlz4", (void 0)))
+1631966067157	Marionette	INFO	Listening on port 49592
+1631966067517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631966141676	Marionette	INFO	Stopped listening on port 49592
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:499:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3747:24\ndestroy@resource://devtools/client/framework/toolbox.js:3685:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\ndestroy@resource://devtools/client/framework/devtools-browser.js:747:24\nobserve@resource://devtools/client/framework/devtools-browser.js:195:26\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2768:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631966145393	geckodriver	INFO	Listening on 127.0.0.1:65437
+1631966148449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofileapwtB5"
+1631966149207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofileapwtB5\\search.json.mozlz4", (void 0)))
+1631966153058	Marionette	INFO	Listening on port 63690
+1631966153326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631966198737	Marionette	INFO	Stopped listening on port 63690
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631967770490	geckodriver	INFO	Listening on 127.0.0.1:53101
+1631967773545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofileZaLAkw"
+1631967774832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofileZaLAkw\\search.json.mozlz4", (void 0)))
+1631967779384	Marionette	INFO	Listening on port 63244
+1631967779492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631967794198	Marionette	INFO	Stopped listening on port 63244
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:499:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3747:24\ndestroy@resource://devtools/client/framework/toolbox.js:3685:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\ndestroy@resource://devtools/client/framework/devtools-browser.js:747:24\nobserve@resource://devtools/client/framework/devtools-browser.js:195:26\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2768:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631967813183	geckodriver	INFO	Listening on 127.0.0.1:49548
+1631967816247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofileqsG5KO"
+1631967817170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofileqsG5KO\\search.json.mozlz4", (void 0)))
+1631967821583	Marionette	INFO	Listening on port 62298
+1631967821659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631967855899	Marionette	INFO	Stopped listening on port 62298
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker23, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:499:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3747:24\ndestroy@resource://devtools/client/framework/toolbox.js:3685:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\ndestroy@resource://devtools/client/framework/devtools-browser.js:747:24\nobserve@resource://devtools/client/framework/devtools-browser.js:195:26\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2768:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter58, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2768:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631967982702	geckodriver	INFO	Listening on 127.0.0.1:49395
+1631967985751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofile7ixsN0"
+1631967986616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofile7ixsN0\\search.json.mozlz4", (void 0)))
+1631967990697	Marionette	INFO	Listening on port 53112
+1631967991260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631968016858	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631968072680	Marionette	INFO	Stopped listening on port 53112
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631968436780	geckodriver	INFO	Listening on 127.0.0.1:55740
+1631968439834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofilehAdAcK"
+1631968440753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofilehAdAcK\\search.json.mozlz4", (void 0)))
+1631968445478	Marionette	INFO	Listening on port 59512
+1631968446041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631968531520	Marionette	INFO	Stopped listening on port 59512
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\dell-laptop\AppData\Local\Temp\rust_mozprofilehAdAcK\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1631968726056	geckodriver	INFO	Listening on 127.0.0.1:65509
+1631968729145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELL-L~1\\AppData\\Local\\Temp\\rust_mozprofileqskHL0"
+1631968730474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dell-laptop\\AppData\\Local\\Temp\\rust_mozprofileqskHL0\\search.json.mozlz4", (void 0)))
+1631968736637	Marionette	INFO	Listening on port 49364
+1631968736989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1631968766647	Marionette	INFO	Stopped listening on port 49364
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\dell-laptop\AppData\Local\Temp\rust_mozprofileqskHL0\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
