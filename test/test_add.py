@@ -30,10 +30,10 @@ class TestAdd(unittest.TestCase):
         print(expectedResult)
         if actual_result == expectedResult:
             result1 = True
-            self.ts.markFinal("test_successful_login", result1, "TC1 Completed")
+            self.ts.markFinal("test_valid_addition_TC1", result1, "TC1 Completed")
         else:
             result1 = False
-            self.ts.markFinal("test_successful_login", result1, "TC1 Completed")
+            self.ts.markFinal("test_valid_addition_TC1", result1, "TC1 Completed")
 
 
 
@@ -46,8 +46,8 @@ class TestAdd(unittest.TestCase):
         actual_result = self.rv.getactualresult()
         if actual_result == expectedResult:
             result1 = True
-            self.ts.markFinal("test_successful_login", result1, "TC2 Completed")
+            self.ts.markFinal("test_valid_addition_TC2", result1, "TC2 Completed")
         else:
             result1 = False
-            self.ts.markFinal("test_successful_login", result1, "TC2 Completed")
+            self.ts.markFinal("test_valid_addition_TC2", result1, "TC2 Completed")
 

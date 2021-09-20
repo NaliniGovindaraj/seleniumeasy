@@ -3094,3 +3094,69 @@
 09/19/2021 03:54:19 PM - ResultVerification - INFO: Succesfully found element with locator: //span[@id ='displayvalue'] and  locatorType: xpath
 09/19/2021 03:54:19 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL :: + TC2 Completed
 09/19/2021 03:54:19 PM - TestStatus - ERROR: test_successful_login###PASS###
+09/20/2021 03:29:25 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:29:25 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:29:25 PM - SeleniumDriver - INFO: Succesfully found element with locator: sum1 and  locatorType: id
+09/20/2021 03:29:25 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: sum1 locatorType: id
+09/20/2021 03:29:25 PM - SeleniumDriver - INFO: Succesfully found element with locator: //input[@id ='sum2'] and  locatorType: xpath
+09/20/2021 03:29:25 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: //input[@id ='sum2'] locatorType: xpath
+09/20/2021 03:29:25 PM - SeleniumDriver - INFO: Succesfully found element with locator: //button[@ onclick='return total()'] and  locatorType: xpath
+09/20/2021 03:29:25 PM - SeleniumDriver - INFO: Successfully clicked the element with locator: //button[@ onclick='return total()'] locatorType: xpath
+09/20/2021 03:29:25 PM - ResultVerification - INFO: Succesfully found element with locator: //span[@id ='displayvalue'] and  locatorType: xpath
+09/20/2021 03:29:25 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL :: + TC1 Completed
+09/20/2021 03:29:25 PM - TestStatus - ERROR: test_successful_login###PASS###
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Succesfully found element with locator: sum1 and  locatorType: id
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: sum1 locatorType: id
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Succesfully found element with locator: //input[@id ='sum2'] and  locatorType: xpath
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: //input[@id ='sum2'] locatorType: xpath
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Succesfully found element with locator: //button[@ onclick='return total()'] and  locatorType: xpath
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Successfully clicked the element with locator: //button[@ onclick='return total()'] locatorType: xpath
+09/20/2021 03:29:26 PM - ResultVerification - INFO: Succesfully found element with locator: //span[@id ='displayvalue'] and  locatorType: xpath
+09/20/2021 03:29:26 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL :: + TC2 Completed
+09/20/2021 03:29:26 PM - TestStatus - ERROR: test_successful_login###PASS###
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Succesfully found element with locator: sum1 and  locatorType: id
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: sum1 locatorType: id
+09/20/2021 03:29:26 PM - SeleniumDriver - INFO: Succesfully found element with locator: //input[@id ='sum2'] and  locatorType: xpath
+09/20/2021 03:29:27 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: //input[@id ='sum2'] locatorType: xpath
+09/20/2021 03:29:27 PM - SeleniumDriver - INFO: Succesfully found element with locator: //button[@ onclick='return total()'] and  locatorType: xpath
+09/20/2021 03:29:27 PM - SeleniumDriver - INFO: Successfully clicked the element with locator: //button[@ onclick='return total()'] locatorType: xpath
+09/20/2021 03:29:27 PM - ResultVerification - INFO: Succesfully found element with locator: //span[@id ='displayvalue'] and  locatorType: xpath
+09/20/2021 03:29:27 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL :: + TC2 Completed
+09/20/2021 03:29:27 PM - TestStatus - ERROR: test_successful_login###PASS###
+09/20/2021 03:34:25 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:34:25 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:34:25 PM - SeleniumDriver - INFO: Succesfully found element with locator: sum1 and  locatorType: id
+09/20/2021 03:34:25 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: sum1 locatorType: id
+09/20/2021 03:34:25 PM - SeleniumDriver - INFO: Succesfully found element with locator: //input[@id ='sum2'] and  locatorType: xpath
+09/20/2021 03:34:25 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: //input[@id ='sum2'] locatorType: xpath
+09/20/2021 03:34:25 PM - SeleniumDriver - INFO: Succesfully found element with locator: //button[@ onclick='return total()'] and  locatorType: xpath
+09/20/2021 03:34:25 PM - SeleniumDriver - INFO: Successfully clicked the element with locator: //button[@ onclick='return total()'] locatorType: xpath
+09/20/2021 03:34:25 PM - ResultVerification - INFO: Succesfully found element with locator: //span[@id ='displayvalue'] and  locatorType: xpath
+09/20/2021 03:34:25 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL :: + TC1 Completed
+09/20/2021 03:34:25 PM - TestStatus - ERROR: test_valid_addition_TC1###PASS###
+09/20/2021 03:34:26 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:34:26 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:34:26 PM - SeleniumDriver - INFO: Succesfully found element with locator: sum1 and  locatorType: id
+09/20/2021 03:34:26 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: sum1 locatorType: id
+09/20/2021 03:34:26 PM - SeleniumDriver - INFO: Succesfully found element with locator: //input[@id ='sum2'] and  locatorType: xpath
+09/20/2021 03:34:26 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: //input[@id ='sum2'] locatorType: xpath
+09/20/2021 03:34:26 PM - SeleniumDriver - INFO: Succesfully found element with locator: //button[@ onclick='return total()'] and  locatorType: xpath
+09/20/2021 03:34:27 PM - SeleniumDriver - INFO: Successfully clicked the element with locator: //button[@ onclick='return total()'] locatorType: xpath
+09/20/2021 03:34:27 PM - ResultVerification - INFO: Succesfully found element with locator: //span[@id ='displayvalue'] and  locatorType: xpath
+09/20/2021 03:34:27 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL :: + TC2 Completed
+09/20/2021 03:34:27 PM - TestStatus - ERROR: test_valid_addition_TC2###PASS###
+09/20/2021 03:34:27 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:34:27 PM - SeleniumDriver - INFO: Successfully Element appeared on the web page
+09/20/2021 03:34:27 PM - SeleniumDriver - INFO: Succesfully found element with locator: sum1 and  locatorType: id
+09/20/2021 03:34:27 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: sum1 locatorType: id
+09/20/2021 03:34:27 PM - SeleniumDriver - INFO: Succesfully found element with locator: //input[@id ='sum2'] and  locatorType: xpath
+09/20/2021 03:34:27 PM - SeleniumDriver - INFO: Succssfully Sent data with locator: //input[@id ='sum2'] locatorType: xpath
+09/20/2021 03:34:27 PM - SeleniumDriver - INFO: Succesfully found element with locator: //button[@ onclick='return total()'] and  locatorType: xpath
+09/20/2021 03:34:27 PM - SeleniumDriver - INFO: Successfully clicked the element with locator: //button[@ onclick='return total()'] locatorType: xpath
+09/20/2021 03:34:28 PM - ResultVerification - INFO: Succesfully found element with locator: //span[@id ='displayvalue'] and  locatorType: xpath
+09/20/2021 03:34:28 PM - TestStatus - ERROR: ### VERIFICATION SUCCESSFUL :: + TC2 Completed
+09/20/2021 03:34:28 PM - TestStatus - ERROR: test_valid_addition_TC2###PASS###
