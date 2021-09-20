@@ -104,16 +104,14 @@ class SeleniumDriver():
         if direction == "down":
             self.driver.execute_script("window.scrollBy(0, 900);")
 
-    def getText(self, locator="", locatorType="id", element=None):
+    def getText(self, locator="", locatorType="id"):
 
         try:
-            if locator is not None:
-                element = self.getElement(locator, locatorType)
+            element = self.getElement(locator, locatorType)
             text = element.text
-            if len(text) == 0:
-                text = element.get_attribute("innerText")
             if len(text) != 0:
                 text = text.strip()
+
         except:
             self.log.error("Failed to get text on element ")
             print_stack()
